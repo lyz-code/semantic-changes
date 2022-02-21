@@ -6,7 +6,7 @@
 #
 gitdb==4.0.9
     # via gitpython
-gitpython==3.1.24
+gitpython==3.1.27
     # via semantic-changes (setup.py)
 smmap==5.0.0
     # via gitdb
